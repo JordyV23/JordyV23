@@ -1,5 +1,13 @@
 # 💫 About Me:
 A passionate developer from Costa Rica
+Welcome to my GitHub profile!
+
+I'm a passionate software developer with a strong focus on building robust and scalable web applications. With a solid foundation in programming languages like JavaScript, I enjoy exploring new technologies and frameworks to enhance my skills.
+
+My journey in software development has exposed me to various areas, including front-end development, back-end architecture, and database management. 
+
+In my repositories, you'll find a diverse range of projects that demonstrate my problem-solving abilities and coding expertise.
+
 
 
 # 💻 Tech Stack:
