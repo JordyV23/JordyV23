@@ -23,6 +23,9 @@ In my repositories, you'll find a diverse range of projects that demonstrate my 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyV23&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
 
+# 📖 Daily.dev Stats:
+<a href="https://app.daily.dev/JordyV23"><img src="https://api.daily.dev/devcards/4f41c9fe04e34f939e422ca697019ba3.png?r=6ar" width="400" alt="Jordy Hernandez Vargas's Dev Card"/></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
